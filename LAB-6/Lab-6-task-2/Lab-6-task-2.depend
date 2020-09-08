@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1588427190 source:c:\users\david\desktop\oop c++ work\lab-6\lab-6-task-2\course.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	"course.h"
+
+1588425373 c:\users\david\desktop\oop c++ work\lab-6\lab-6-task-2\course.h
+
+1588426959 source:c:\users\david\desktop\oop c++ work\lab-6\lab-6-task-2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"course.h"
+

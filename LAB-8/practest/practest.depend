@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589736414 source:c:\users\david\desktop\oop c++ work\lab-8\practest\main.cpp
+	<iostream>
+	<string.h>
+	<cstring>
+

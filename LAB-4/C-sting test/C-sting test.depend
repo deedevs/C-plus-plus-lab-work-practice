@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1588976658 source:c:\users\david\desktop\oop c++ work\lab-4\c-sting test\main.cpp
+	<iostream>
+	"b.string.h"
+	<cstring>
+
+1588976595 c:\users\david\desktop\oop c++ work\lab-4\c-sting test\include\b.string.h
+	<iostream>
+	<string.h>
+
+1588976595 source:c:\users\david\desktop\oop c++ work\lab-4\c-sting test\src\b.string.cpp
+	<cstring>
+	"b.string.h"
+

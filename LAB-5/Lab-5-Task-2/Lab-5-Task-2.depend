@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588172778 source:c:\users\david\desktop\oop c++ work\lab-5\lab-5-task-2\main.cpp
+	<iostream>
+	"rectangle.h"
+
+1588024680 c:\users\david\desktop\oop c++ work\lab-5\lab-5-task-2\rectangle.h
+
+1588024805 source:c:\users\david\desktop\oop c++ work\lab-5\lab-5-task-2\rectangle.cpp
+	<iostream>
+	<math.h>
+	"rectangle.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1588860884 source:c:\users\david\desktop\oop c++ work\lab-7\lab-7-task-2\line.cpp
+	<iostream>
+	"point.h"
+	"Line.h"
+
+1588860452 c:\users\david\desktop\oop c++ work\lab-7\lab-7-task-2\point.h
+
+1588862297 c:\users\david\desktop\oop c++ work\lab-7\lab-7-task-2\line.h
+	"point.h"
+
+1588860442 source:c:\users\david\desktop\oop c++ work\lab-7\lab-7-task-2\main.cpp
+	<iostream>
+	"Line.h"
+	"point.h"
+
+1588861991 source:c:\users\david\desktop\oop c++ work\lab-7\lab-7-task-2\point.cpp
+	<iostream>
+	"point.h"
+

@@ -1,0 +1,11 @@
+﻿  Lab-8-Task1.cpp
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(34,6): warning C4101: 'item': unreferenced local variable
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(95,12): error C2131: expression did not evaluate to a constant
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(95,12): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(95,12): message : see usage of 'newSize'
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(97,21): error C3863: array type 'int [newSize]' is not assignable
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(98,12): error C2131: expression did not evaluate to a constant
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(98,12): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(98,12): message : see usage of 'newSize'
+C:\Users\David\Desktop\OOP C++ Work\LAB-8\Lab-8-Task1\Lab-8-Task1.cpp(100,21): error C3863: array type 'int [newSize]' is not assignable

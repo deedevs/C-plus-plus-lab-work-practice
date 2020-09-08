@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587630828 source:c:\users\david\desktop\oop c++ work\lab-4\lab-4-task-1\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+

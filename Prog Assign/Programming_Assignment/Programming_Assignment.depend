@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589733317 source:c:\users\david\desktop\oop c++ work\prog assign\programming_assignment\main.cpp
+	<iostream>
+	"DString.h"
+
+1589733298 source:c:\users\david\desktop\oop c++ work\prog assign\programming_assignment\dstring.cpp
+	<iostream>
+	"DString.h"
+	<string.h>
+
+1589733298 c:\users\david\desktop\oop c++ work\prog assign\programming_assignment\dstring.h
+	<string.h>
+
